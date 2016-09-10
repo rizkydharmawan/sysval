@@ -1,5 +1,0 @@
-#ifndef ANGGAGELOIRAWAN
-#define ANGGAGELOIRAWAN
-
-
-#endif
